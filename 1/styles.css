@@ -238,9 +238,9 @@ main{
 .shadow-under{
     position: absolute;
     z-index:20;
-    width:20px;
+    width:10px;
     height: 19.5px;
-    left: -22px;
+    left: -13px;
     top:77.5px;
     border-radius: 8px;
     background:#FAFAFA;
@@ -248,9 +248,9 @@ main{
 .shadow-under2{
     position: absolute;
     z-index:20;
-    width:20px;
+    width:10px;
     height: 19.5px;
-    left: 100%;
+    left: 101%;
     top:77.5px;
     border-radius: 8px;
     background:#FAFAFA;
